@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  color: azure;
+}
+
+h3 {
+  color: rgb(192, 192, 192);
+}
+
+body {
+  position: relative;
+}
+
+.chart-div {
+  width: 100%;
+}
